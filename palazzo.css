@@ -23,18 +23,17 @@ body {
 
 .navbar-title li {
   list-style: none;
-  padding-top: .4rem;
+  padding: .4rem 0 .4rem 0;
 }
 
 .navbar-title li a {
   text-decoration: none;
-  font-family:  cursive;
+  font-family: 'Berkshire Swash', cursive;
   font-size: 4rem;
   font-weight:600;
   letter-spacing: 2px;
-  /* text-shadow: 2px 0px 0px hsl(42, 87%, 93%); */
   color: hsl(38, 96%, 69%);
-  padding-left: 2rem
+  padding-left: 2rem;
 }
 
 .navbar-links ul {
